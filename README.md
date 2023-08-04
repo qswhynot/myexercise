@@ -6,3 +6,5 @@ numpy
 pandas
 
 pytorch
+
+tensorflow
