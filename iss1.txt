@@ -1,0 +1,7 @@
+account:
+1.shop
+2.learn
+3.drink
+4.smoke
+5.make hair
+6.talk
